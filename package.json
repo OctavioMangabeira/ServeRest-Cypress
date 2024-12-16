@@ -1,0 +1,17 @@
+{
+  "name": "serverrest-test-api-cypress",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "cy:open": "npx cypress open",
+    "cy:run": "npx cypress run"
+  },
+  "keywords": [],
+  "author": "Octávio Mangabeira Sobrinho",
+  "license": "ISC",
+  "description": "Projeto de Testes de API usando Cypress",
+  "devDependencies": {
+    "@faker-js/faker": "^9.3.0",
+    "cypress": "^13.16.1"
+  }
+}

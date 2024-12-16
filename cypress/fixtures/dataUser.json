@@ -1,0 +1,14 @@
+{
+    "valid": {
+        "nome": "Octavio Teste QA 01",
+        "email": "testeqa01@gmail.com.br",
+        "password": "testeqa01",
+        "administrador": "true"
+    },
+    "invalid": {
+        "nome": "Fulano da Silva",
+        "email": "testeqa01@gmail.com.br",
+        "password": "teste",
+        "administrador": "true"
+    }
+}
